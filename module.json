@@ -107,3 +107,8 @@
   ],
   "description": ""
 }
+
+"url": "https://github.com/Eule7Owl/DaggerHeart-Tchinese",
+  "manifest": "https://raw.githubusercontent.com/Eule7Owl/DaggerHeart-Tchinese/main/module.json",
+  "download": "https://github.com/Eule7Owl/DaggerHeart-Tchinese/releases/latest/download/tcfordh-byeule.zip"
+}
