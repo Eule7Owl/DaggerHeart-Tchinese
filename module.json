@@ -1,20 +1,15 @@
 {
   "id": "tcfordh-byeule",
   "title": "匕首之心正體中文by埃勒Eule",
+  "description": "DaggerHeart 正體中文資料包（繁體中文），提供角色建立與遊戲資料的翻譯內容（種族、職業、領域、裝備等）。",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
   "authors": [
-    {
-      "name": "埃勒Eule",
-      "flags": {}
-    },
-    {
-      "name": "浩呆豆腐HowdaiTofu",
-      "flags": {}
-    }
+    { "name": "埃勒Eule" },
+    { "name": "浩呆豆腐HowdaiTofu" }
   ],
   "flags": {
     "canUpload": true
@@ -26,10 +21,7 @@
       "path": "packs/Ancestries",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Classes",
@@ -37,10 +29,7 @@
       "path": "packs/Classes",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Domains",
@@ -48,10 +37,7 @@
       "path": "packs/Domains",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Weapons",
@@ -59,10 +45,7 @@
       "path": "packs/Weapons",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Armour",
@@ -70,10 +53,7 @@
       "path": "packs/Armour",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Consumables",
@@ -81,10 +61,7 @@
       "path": "packs/Consumables",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Loot",
@@ -92,10 +69,7 @@
       "path": "packs/Loot",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Community",
@@ -103,10 +77,7 @@
       "path": "packs/Community",
       "type": "Item",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "Adversaries",
@@ -114,10 +85,7 @@
       "path": "packs/Adversaries",
       "type": "Actor",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
       "name": "environment",
@@ -125,14 +93,10 @@
       "path": "packs/environment",
       "type": "Actor",
       "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
-    "url": "https://github.com/Eule7Owl/DaggerHeart-Tchinese",
+  "url": "https://github.com/Eule7Owl/DaggerHeart-Tchinese",
   "manifest": "https://raw.githubusercontent.com/Eule7Owl/DaggerHeart-Tchinese/main/module.json",
   "download": "https://github.com/Eule7Owl/DaggerHeart-Tchinese/releases/latest/download/tcfordh-byeule.zip"
-  "description": ""
 }
